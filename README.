@@ -1,0 +1,5 @@
+## Delete this file after reading this.
+
+## You need replit or any other programming website, replit will be the best one yet. This selfbot has an env/secret you will have to put "TOKEN" in key and your token in value
+when you have done that save the secret/env and then you can go to config.json and fix your own setting the prefix you will start with is "," but you can change it while using 
+the selfbot. The command is ,prefix (change the prefix to whatever you like).
