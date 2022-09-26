@@ -1,0 +1,8 @@
+{
+    "prefix": ",",
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "stream_url": "https://www.twitch.tv/soviet",
+    "webhookspammsg": "@everyone JOIN https://discord.gg/SsacdVefjr",
+    "webhooknames": "soviet"
+}
